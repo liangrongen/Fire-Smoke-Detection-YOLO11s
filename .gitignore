@@ -1,0 +1,14 @@
+# 忽略数据集
+dataset_5000/
+data/
+
+# 忽略训练产生的运行文件夹
+runs/
+moxing/
+fire/
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.idea/

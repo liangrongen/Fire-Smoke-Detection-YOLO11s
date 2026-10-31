@@ -1,0 +1,8 @@
+path: ./dataset_5000  # 放数据集的地方
+train: train/images
+val: val/images
+test: test/images
+
+# Classes
+nc: 2
+names: ['smoke', 'fire']
